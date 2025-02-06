@@ -42,4 +42,8 @@ project "ImGui"
     filter "configurations:Dist"
 		runtime "Release"
 		optimize "on"
+<<<<<<< HEAD
         symbols "off"
+=======
+    symbols "off"
+>>>>>>> 5a74b13f052c1f31ea506c0f29ea6b49af98c637
